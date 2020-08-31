@@ -1,0 +1,6 @@
+====================================================
+Quantidade de Clientes: 2
+Quantidade de Vendedores: 3
+Venda mais cara: 105.6
+Pior vendedor: Jhonny Bigu
+====================================================
